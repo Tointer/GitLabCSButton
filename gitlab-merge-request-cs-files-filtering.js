@@ -3,6 +3,7 @@
     // @namespace   https://github.com/Tointer
     // @include     https://*/-/merge_requests/*/diffs
     // @version     1
+    // @author      Tointer
     // @updateURL   https://github.com/Tointer/GitLabCSButton
     // @license     GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
     // @description This script will add special button that will hide all changes except ones in .cs files. Based on script by Jose Luis Canciani (https://github.com/josecanciani)
