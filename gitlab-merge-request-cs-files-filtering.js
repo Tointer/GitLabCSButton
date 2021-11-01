@@ -3,13 +3,13 @@
     // @namespace   https://github.com/Tointer
     // @include     https://*/-/merge_requests/*/diffs
     // @version     1
-    // @updateURL   https://gist.githubusercontent.com/josecanciani/2e6d1d0b9ce9889eb5ac480219f21e19/raw/gitlab-merge-request-diff-file-filter.user.js
+    // @updateURL   https://github.com/Tointer/GitLabCSButton
     // @license     GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
     // @description This script will add special button that will hide all changes except ones in .cs files. Based on script by Jose Luis Canciani (https://github.com/josecanciani)
     // ==/UserScript==
 
     (function() {
-        const scriptName = 'gitlab-merge-request-diff-file-filter.user.js';
+        const scriptName = 'gitlab-merge-request-cs-files-filtering.js';
         const enableDebug = false;
 
         // simple debug method
